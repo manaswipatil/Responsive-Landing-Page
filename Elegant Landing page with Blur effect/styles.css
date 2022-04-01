@@ -8,7 +8,7 @@ body {
 .showcase::after {
     content: '';
     height: 100vh;
-    background-image: url(desk.jpg);
+    background-image: url(images/desk.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
